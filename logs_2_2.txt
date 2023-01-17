@@ -1,0 +1,278 @@
+Read datasets in group
+Read datasets in group
+Reading PileV2Reddit2020_ver2/PileV2Reddit2020_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 213974854
+})
+Reading PileV2Reddit2020_ver2/PileV2Reddit2020_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 213974854
+})
+Reading CodePileReddit2020_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 3705468
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163199
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_3 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_4 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading CodePileReddit2021_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 3494032
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744473
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_3 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_4 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading CodePileReddit2022_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 3905254
+})
+Reading PileV2Posts_ver2 dataset
+Dataset info: Dataset({
+    features: ['id', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria', 'text'],
+    num_rows: 169405843
+})
+Reading CodePilePosts_ver2 dataset
+Dataset info: Dataset({
+    features: ['id', 'meta', 'text'],
+    num_rows: 2379067
+})
+Reading C4 datasets
+Starting to concat datasets
+group_2_2 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 1535377740
+})
+Read datasets in group
+Reading PileV2Reddit2020_ver2/PileV2Reddit2020_0 dataset
+Read datasets in group
+Reading PileV2Reddit2020_ver2/PileV2Reddit2020_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 213974854
+})
+Reading PileV2Reddit2020_ver2/PileV2Reddit2020_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 213974854
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163199
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_3 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_4 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744473
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_3 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading PileV2Reddit2022_ver2/PileV2Reddit2022_4 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 91744474
+})
+Reading C4 datasets
+Starting to concat datasets
+group_2_2 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 1352488076
+})
+Read datasets in group
+Reading PileV2Reddit2020_ver2/PileV2Reddit2020_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 213974854
+})
+Reading PileV2Reddit2020_ver2/PileV2Reddit2020_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 213974854
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163199
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_3 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_4 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading C4 datasets
+Starting to concat datasets
+group_2_2 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 893765707
+})
+Read datasets in group
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163199
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_3 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_4 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading C4 datasets
+Starting to concat datasets
+group_2_2 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 465815999
+})
+Read datasets in group
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_0 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163199
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_1 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_3 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading PileV2Reddit2021_ver2/PileV2Reddit2021_4 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 93163200
+})
+Reading C4 datasets
+Starting to concat datasets
+group_2_2 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 465815999
+})
+minhash                         : 6371.39 seconds
+clustering                      : 59876.35 seconds
+filtering                       : 23152.62 seconds
+save                            : 142955.14 seconds
+Data Number (before)            : 465815999
+Data Number (after)             : 444077021 (95.33%)
+Duplicate Number                : 21738978 (4.67%)
+Total Time                      : 234334.75 seconds
+Deduplicated Dataset            : deduped_2_2
+🤗 Happy Deduplicating 🤗

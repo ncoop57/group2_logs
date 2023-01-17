@@ -1,0 +1,103 @@
+Read datasets in group
+Reading arXiv_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 1484853
+})
+Reading PubMed_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 2994770
+})
+Reading C4 datasets
+Reading C4_DKPRO/C4_DKPRO_0/ dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 40000000
+})
+Starting to concat datasets
+group_1 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 44479623
+})
+Read datasets in group
+Reading arXiv_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 1484853
+})
+Reading PubMed_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 2994770
+})
+Reading C4 datasets
+Reading C4_DKPRO/C4_DKPRO_0/ dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 40000000
+})
+Starting to concat datasets
+group_1 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 44479623
+})
+Read datasets in group
+Reading arXiv_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 1484853
+})
+Reading PubMed_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 2994770
+})
+Reading C4 datasets
+Reading C4_DKPRO/C4_DKPRO_0/ dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 40000000
+})
+Starting to concat datasets
+group_1 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 44479623
+})
+minhash                         : 18081.80 seconds
+clustering                      : 2963.48 seconds
+filtering                       : 997.20 seconds
+save                            : 2074.49 seconds
+Data Number (before)            : 44479623
+Data Number (after)             : 4986248 (11.21%)
+Duplicate Number                : 39493375 (88.79%)
+Total Time                      : 24144.58 seconds
+Deduplicated Dataset            : group_deduped_dataset
+🤗 Happy Deduplicating 🤗
+Read datasets in group
+Reading StackExchange_ver4 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 24475219
+})
+Reading USENET_ver2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta'],
+    num_rows: 56269426
+})
+Reading Discourse_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 6762982
+})
+Reading C4 datasets
+Reading C4_DKPRO/C4_DKPRO_0/ dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 40000000
+})
+Starting to concat datasets
+group_2 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 127507627
+})

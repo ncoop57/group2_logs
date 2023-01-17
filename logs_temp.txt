@@ -1,0 +1,62 @@
+Read datasets in group
+Reading arXiv_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 1484853
+})
+Reading PubMed_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 2994770
+})
+Reading Gutenberg_ver2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 51629
+})
+Reading FreeLaw_Options_ver2 dataset
+Dataset info: Dataset({
+    features: ['meta', 'text', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 4657473
+})
+Reading UbuntuIRC_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 250304
+})
+Reading Enwiki_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 2052926
+})
+Reading EuroParliamentProceedings_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 68958
+})
+Reading USPTO_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 6754153
+})
+Reading PileOfLaw_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 7022154
+})
+Reading OtherWiki_ver2 dataset
+Dataset info: Dataset({
+    features: ['text', 'meta', 'id', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 153371
+})
+Reading S2ORC_ver2 dataset
+Dataset info: Dataset({
+    features: ['id', 'text', 'meta', 'check_char_repetition_criteria', 'check_flagged_words_criteria', 'check_stop_word_ratio_criteria'],
+    num_rows: 11712654
+})
+Reading C4 datasets
+Starting to concat datasets
+group_1 dataset: Dataset({
+    features: ['text', 'meta', 'id'],
+    num_rows: 37203245
+})
